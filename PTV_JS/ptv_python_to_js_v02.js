@@ -18,7 +18,7 @@ var api_key = 'f8743d5d-a986-4634-a603-60df90b93143';
 var protoc = 'https://';
 var apiReturnData = {};
 
-
+// hi
 function calculateSignature(pathAndQuery) {
         /*
         Calculates a signature from url
